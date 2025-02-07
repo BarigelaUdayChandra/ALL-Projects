@@ -8,13 +8,13 @@ This project was developed as part of my **Full-Stack Development Internship at 
 ---
 
 ## 🎥 Live Demo  
-🚀 **[Try the calculator here](https://barigelaudaychandra.github.io/scientific-calculator/)**  
+🚀 **[Try the calculator here](https://barigelaudaychandra.github.io/Scientific-Calculator/)**  
 
 ---
 
 ## 📸 Screenshots  
 ### 🎨 User Interface  
-![Calculator UI](#) *(Replace with an actual screenshot)*  
+![Calculator UI](https://github.com/BarigelaUdayChandra/scientific-calculator/blob/index/.gitignore.jpg)
 
 ### 🌟 Dark Mode (Future Enhancement)  
 
@@ -47,7 +47,7 @@ Development Tools:
 
   📦 Scientific-Calculator  
  ┣ 📜 index.html     # Main UI  
- ┣ 📜 style.css      # Styling  
+ ┣ 📜 calci.css      # Styling  
  ┣ 📜 script.js      # Calculator Logic  
  ┣ 📜 README.md      # Documentation  
  ┣ 📜 .gitignore     # Git Ignore File
@@ -80,4 +80,6 @@ Development Tools:
 
 ---
 
+## ⭐ If you like this project, give it a star on GitHub ⭐
 
+git clone https://github.com/BarigelaUdayChandra/Scientific-Calculator.git
